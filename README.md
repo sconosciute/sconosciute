@@ -1,4 +1,10 @@
-### Hi there 👋
+### It Is A Day
+I'm a CS student currently studying at UW Tacoma majoring in committing crimes.
+
+If you have any concerns about the code in any of my repos being "bad" or "unreadable" or "enough spaghetti to make Cthulu run with its tails between its... other tails" then please note:
+
+![](IMG_0020.jpeg)
+
 
 <!--
 **sconosciute/sconosciute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
